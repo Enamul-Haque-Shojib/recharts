@@ -1,8 +1,8 @@
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
+* Unordered sub-list. 
+* Unordered sub-list. 
+* Unordered sub-list. 
+* Unordered sub-list. 
+* Unordered sub-list. 
 
 
 # Getting Started with Create React App
